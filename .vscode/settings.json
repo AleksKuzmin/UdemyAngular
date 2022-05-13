@@ -1,3 +1,7 @@
 {
-  "angular.enable-strict-mode-prompt": false
+  "angular.enable-strict-mode-prompt": false,
+  "markdown.preview.breaks": false,
+  "html.format.wrapLineLength": 70,
+  "prettier.printWidth": 70,
+  "cSpell.blockCheckingWhenAverageChunkSizeGreaterThan": 80
 }
